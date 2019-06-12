@@ -1,2 +1,2 @@
 # bazel_lib
-lib repo for project build by bazel
+third party libs repo for project build by bazel
